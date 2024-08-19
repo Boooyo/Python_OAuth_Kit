@@ -1,2 +1,4 @@
 # Python_OAuth_Kit
-Python_Programmers_TestKit
+
+## Kakao OAuth Modules
+- 08.16 일자 코드 모듈화
